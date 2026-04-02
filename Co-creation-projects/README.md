@@ -12,6 +12,37 @@
 
 - **EXAMPLE-ProjectTemplate**：项目模板，展示标准的项目结构和文档规范
 
+### 最新贡献
+
+#### dongyu23-MADF: Multi-Agent Discussion Framework
+
+> 让思想在代码中碰撞，让灵魂在字节间共鸣
+
+**简介**: 一个基于大语言模型的沉浸式多智能体圆桌讨论框架，通过精细的架构设计，赋予智能体真正的"灵魂"。
+
+**核心功能**:
+- RealGod Agent: 基于 ReAct 框架的深度角色生成
+- 双层记忆系统（私有记忆 + 共享记忆）
+- 动态主持机制自动控场
+- 5 维评估体系量化讨论质量
+- WebSocket 实时流式交互
+
+**技术栈**: Vue 3, FastAPI, ZhipuAI GLM-4, SQLite/PostgreSQL
+
+**作者**: [@dongyu23](https://github.com/dongyu23)
+
+---
+
+### 其他优秀项目
+
+- **1zrj-DataAnalysisAgent**: 数据分析智能体
+- **ApriCity-InnocoreAI**: AI 创意生成
+- **JJason-DeepCastAgent**: 深度预测智能体
+- **Shawnxyxy-HealthRecordAgent**: 健康记录助手
+- **YYHDBL-HelloCodeAgentCli**: 代码助手 CLI
+- **Yixiang-Wu-LearningAgent**: 学习助手
+- ... 更多项目请查看完整列表
+
 ## 🚀 如何贡献你的项目
 
 ### 1. 项目命名规范
@@ -94,6 +125,13 @@ README.md应包含以下内容：
 - 购物助手
 - 家居控制
 
+### 多智能体系统
+
+- 圆桌讨论框架
+- 协作决策系统
+- 角色扮演模拟
+- 社交模拟平台
+
 ## 💬 交流与反馈
 
 - 在GitHub Issue中提问
@@ -109,4 +147,3 @@ README.md应包含以下内容：
 <div align="center">
   <strong>期待看到你的精彩作品！🎉</strong>
 </div>
-
